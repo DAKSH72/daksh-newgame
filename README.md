@@ -1,1 +1,2 @@
-# daksh-newgame
+# synchronousBallMovement
+Ball moving synchronously
